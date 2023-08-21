@@ -1,2 +1,2 @@
-# C-Sharp-Learning-Beginner
+# C-Sharp-Learning
 Repository used for learning C-Sharp
